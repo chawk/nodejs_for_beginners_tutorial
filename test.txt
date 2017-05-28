@@ -1,0 +1,427 @@
+﻿
+<!DOCTYPE html>
+<html amp lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+<meta name="keywords" content="programming,tutorials,coding,news,python,php,ruby,rails,django">
+<meta name="description" content="FREE online programmer training from beginner to advanced courses. Keep up to date with the latest programming news, tutorials and information.">
+<link rel="canonical" href="https://www.hipstercode.com/" />
+<link rel="amphtml" href="https://www.hipstercode.com/">
+
+    <meta name="robots" content="index, follow">
+    <meta property="og:image" content="/static/img/header-bg.jpg"/>
+    <link rel="icon" href="/static/img/logo1.ico" type="image/x-icon" />
+    
+    <title>Home</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/static/css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/static/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77762958-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<meta name="google-site-verification" content="LMoF0tsRv_rWeU8birCDUTmkdywQCbNeDlYeWwRfQWI" />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-8990144480776862",
+    enable_page_level_ads: true
+  });
+</script>
+<script type="text/javascript"> //<![CDATA[
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+<style>
+#portfolio .portfolio-item .portfolio-caption p {
+    overflow: hidden;
+}
+</style>
+    
+    <meta name="google-site-verification" content="d6qw22UurnudY4QErk2jRqX1Bqc05Y8u18761sJ5ZIo" />
+
+    <style>
+        .pricing-dark-section {
+            border-top: 1px solid #EAEAEA;
+            border-bottom: 1px solid #EAEAEA;
+            background: #222;
+            background: -webkit-linear-gradient(top, #222 0, #222 100%);
+            background: -moz-linear-gradient(top, #222 0, #222 100%);
+            background: -o-linear-gradient(top, #222 0, #222 100%);
+            background: linear-gradient(top, #222 0, #222 100%);
+            margin-top: 120px;
+            padding-top: 45px;
+            padding-bottom: 70px;
+        }
+
+        .pricing-dark-section .header h3 {
+            font-size: 27px;
+            color: #fff;
+            line-height: 25px;
+            font-weight: 400;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+        }
+
+        .pricing-dark-section .charts {
+            margin-top: 35px;
+        }
+
+        .pricing-dark-section .charts .chart.first {
+            float: right;
+        }
+
+        .pricing-dark-section .charts .chart .quantity {
+            text-align: center;
+        }
+
+        .pricing-dark-section .charts .chart .plan-name {
+            text-align: center;
+            font-size: 40px;
+            font-weight: 400;
+            color: #777;
+            border-bottom: 1px solid #d5d5d5;
+            padding-bottom: 15px;
+            width: 90%;
+            margin: 0 auto;
+            margin-top: 8px;
+        }
+
+        .pricing-dark-section .charts .chart.first {
+            float: right;
+        }
+
+        .pricing-dark-section .charts .chart {
+            background-color: #fff;
+            border: 1px solid #E6E6E6;
+            border-radius: 5px;
+            box-shadow: 0px 0px 2px 0px rgba(181, 181, 181, 0.3);
+            padding: 20px 40px;
+            position: relative;
+            text-align: center;
+            width: 100%;
+            min-height: 315px;
+            position: relative;
+            top: 37px;
+        }
+
+        .pricing-dark-section .charts .chart .specs {
+            margin-top: 20px;
+        }
+
+        .pricing-dark-section .charts .chart .specs .spec {
+            font-size: 30px;
+            color: #353535;
+            text-align: center;
+            font-weight: 300;
+            margin-bottom: 13px;
+        }
+
+        .pricing-dark-section .charts .chart .specs .spec .variable {
+            color: #1FBEE7;
+            font-weight: 400;
+        }
+
+        @media (min-width: 768px) {
+            section {
+                padding: 20px;
+            }
+        }
+    </style>
+
+
+
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="/">HipsterCode</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/">Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/tutorial/tutorials">Tutorials</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/blog/blog/">News</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/pricing/">Pricing</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/blog/snippets/">Snippets</a>
+                    </li>
+                    
+                      <li>
+                          <a class="page-scroll" href="/login/">Log In</a>
+                      </li>
+                      <li>
+                          <a class="page-scroll" href="/accounts/register/">Register</a>
+                      </li>
+                    
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">Learn How To Program For FREE!</div>
+            </div>
+        </div>
+    </header>
+    <section id="portfolio">
+
+        <div class="container text-center">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- responsive -->
+            <ins class="adsbygoogle"
+                style="display:block"
+                data-ad-client="ca-pub-8990144480776862"
+                data-ad-slot="2824428887"
+                data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+
+        <div class="container">
+
+            <div class="row header">
+                <div class="col-md-12">
+                    <h1 class="text-center">Just some of our tutorials</h1>
+                </div>
+            </div>
+
+            <div class="row">
+                
+                    <div class="col-md-4 col-sm-6 portfolio-item">
+                        <a href="/tutorial/32/" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://img.youtube.com/vi/CfbDxoRFByY/0.jpg" class="img-responsive" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Beginning Django 1.9</h4>
+                            <p class="text-muted"><p>This Django Tutorial Series covers the basics of how the Django Web Framework works. In the process we will build ...</p>
+                        </div>
+                    </div>
+                
+                    <div class="col-md-4 col-sm-6 portfolio-item">
+                        <a href="/tutorial/33/" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://img.youtube.com/vi/IZj8hLrkABs/0.jpg" class="img-responsive" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Python For Beginners</h4>
+                            <p class="text-muted">The best introduction Python Tutorial Series on the web! This series starts out fast and never looks back. You'll learn ...</p>
+                        </div>
+                    </div>
+                
+                    <div class="col-md-4 col-sm-6 portfolio-item">
+                        <a href="/tutorial/56/" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://img.youtube.com/vi/Axh8rNKgvmk/0.jpg" class="img-responsive" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Django for Beginners</h4>
+                            <p class="text-muted">A beginner tutorial series aimed at getting you off the ground with Django quickly.</p>
+                        </div>
+                    </div>
+                
+                    <div class="col-md-4 col-sm-6 portfolio-item">
+                        <a href="/tutorial/55/" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://img.youtube.com/vi/HGiuvnhj6NE/0.jpg" class="img-responsive" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Git for Beginners</h4>
+                            <p class="text-muted">This is a beginner level course to get your feet wet with Git. We will learn how to create a ...</p>
+                        </div>
+                    </div>
+                
+                    <div class="col-md-4 col-sm-6 portfolio-item">
+                        <a href="/tutorial/54/" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://img.youtube.com/vi/sPyb6QlgBaU/0.jpg" class="img-responsive" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Unit Testing With Mocha For Beginners</h4>
+                            <p class="text-muted">A straight to the point introduction to using Mocha to write unit tests for a JavaScript application. This is a ...</p>
+                        </div>
+                    </div>
+                
+                    <div class="col-md-4 col-sm-6 portfolio-item">
+                        <a href="/tutorial/49/" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://img.youtube.com/vi/w5TupxbnnrM/0.jpg" class="img-responsive" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Getting Started With React, Babel and Webpack</h4>
+                            <p class="text-muted">Things change in the JavaScript world so fast nowadays. I feel this video is relatively future proof going into 2017 ...</p>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+
+        <div class="container text-center">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- responsive -->
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-8990144480776862"
+                    data-ad-slot="2824428887"
+                    data-ad-format="auto"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+    </section>
+
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="row">
+                      <script language="JavaScript" type="text/javascript">
+                      TrustLogo("https://www.hipstercode.com/static/img/comodo_secure_seal_100x85_transp.png", "CL1", "none");
+                      </script>
+                    </div>
+                    <div class="row">
+                        <span class="copyright">Copyright &copy; Noob Media LLC 2017</span>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a href="https://twitter.com/realchrishawkes"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="https://www.youtube.com/user/noobtoprofessional"><i class="fa fa-youtube"></i></a>
+                        </li>
+                        <li><a href="https://www.instagram.com/officialhipstercode/"><i class="fa fa-instagram"></i></a>
+                        </li>
+                        <li><a href="https://www.linkedin.com/in/christopher-hawkes-130aa835"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="/privacy">Privacy Policy</a>
+                        </li>
+                        <li><a href="/terms">Terms of Use</a>
+                        </li>
+                        <li><a href="/copyright">Copyright</a>
+                        </li>
+                        <li><a href="/about">About Us</a>
+                        </li>
+                        <li><a href="/contact">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Portfolio Modals -->
+    <!-- Use the modals below to showcase details about your portfolio projects! -->
+
+    <!-- jQuery -->
+    <script src="/static/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/static/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="/static/js/classie.js"></script>
+    <script src="/static/js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="/static/js/jqBootstrapValidation.js"></script>
+    <script src="/static/js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/static/js/agency.js"></script>
+
+    
+
+    
+
+</body>
+
+</html>

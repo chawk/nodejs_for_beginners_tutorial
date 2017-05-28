@@ -1,0 +1,14 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "description": "A Node.js tutorial by Chris Hawkes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Hawkes",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
